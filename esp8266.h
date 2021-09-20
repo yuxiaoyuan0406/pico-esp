@@ -1,6 +1,7 @@
 #pragma once
 #include "pico/stdlib.h"
 #include "hardware/uart.h"
+#include "hardware/irq.h"
 
 class esp8266
 {
