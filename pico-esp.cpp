@@ -9,7 +9,7 @@ int main()
 
     puts("Hello, world!");
 
-    esp8266 my_esp();
+    esp8266 my_esp;
 
     return 0;
 }
